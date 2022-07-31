@@ -2,6 +2,10 @@
     font-weight: 700;
 }
 
+.my-image {
+    filter: brightness(40%);
+}
+
 .register {
     height: 200px;
 }
